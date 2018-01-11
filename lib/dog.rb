@@ -3,5 +3,6 @@ class Dog
     @name=dog_name
   end
   def bark
-  end 
+    puts "woof!"
+  end
 end
